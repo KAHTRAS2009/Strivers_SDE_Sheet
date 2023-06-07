@@ -71,7 +71,6 @@ public class _08MergeOverlappingIntervals {
         }
     }
 
-
     public static int[][] merge(int[][] intervals) {
 
         Pair[] arr = new Pair[intervals.length];

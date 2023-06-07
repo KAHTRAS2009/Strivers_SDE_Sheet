@@ -42,7 +42,7 @@ public class _06BestTimeToBuyAndSellStock {
             
         }
     }
-
+    
     public static int maxProfit(int[] prices) {
         
         int minStock = prices[0];

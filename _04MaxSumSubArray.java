@@ -53,7 +53,6 @@ public class _04MaxSumSubArray {
 
 			if(sum < 0) sum = 0;
 		}
-
 		return max;
 	}
 }
