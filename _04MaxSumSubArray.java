@@ -27,7 +27,7 @@ So, it's better to drop off the sum to 0.
 
 import java.util.*;
 
-public class _4MaxSumSubArray {
+public class _04MaxSumSubArray {
     
     public static void main(String[] args) {
         try(Scanner scn = new Scanner(System.in)) {

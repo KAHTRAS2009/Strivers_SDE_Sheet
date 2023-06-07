@@ -31,7 +31,7 @@ ith index of arr1 and increase jth index.
 
 import java.util.*;
 
-public class _9MergeSortedArray {
+public class _09MergeSortedArray {
 
     public static void main(String[] args) {
         try(Scanner scn = new Scanner(System.in)) {

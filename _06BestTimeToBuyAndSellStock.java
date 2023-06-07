@@ -26,7 +26,7 @@ sell the stock on this day and check if the price of selling is greater than the
 
 import java.util.*;
 
-public class _6BestTimeToBuyAndSellStock {
+public class _06BestTimeToBuyAndSellStock {
 
     public static void main(String[] args) {
         try(Scanner scn = new Scanner(System.in)) {

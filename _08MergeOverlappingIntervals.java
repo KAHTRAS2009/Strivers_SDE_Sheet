@@ -32,7 +32,7 @@ answer. At the end, overlapping intervals will be merged.
 
 import java.util.*;
 
-public class _8MergeOverlappingIntervals {
+public class _08MergeOverlappingIntervals {
     
     public static class Pair implements Comparable<Pair> {
         int i;

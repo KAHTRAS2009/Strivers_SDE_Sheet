@@ -46,7 +46,7 @@ So, we need to reverse/sort the remaining elements from the index where we found
 
 import java.util.*;
 
-public class _3NextPermutation {
+public class _03NextPermutation {
 
     public static void main(String[] args) {
         try(Scanner scn = new Scanner(System.in)) {

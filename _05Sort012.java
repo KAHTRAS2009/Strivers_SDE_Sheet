@@ -29,7 +29,7 @@ At last, the array will be sorted in order 0 -> 1 -> 2
 
 import java.util.*;
 
-public class _5Sort012 {
+public class _05Sort012 {
     public static void main(String[] args) {
         try(Scanner scn = new Scanner(System.in)) {
             int n = scn.nextInt();

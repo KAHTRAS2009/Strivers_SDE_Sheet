@@ -45,7 +45,7 @@ Space Complexity: O(n^2)
 
 import java.util.*;
 
-public class _2PascalTriangle {
+public class _02PascalTriangle {
 
     public static void main(String[] args) {
         try(Scanner scn = new Scanner(System.in)) {

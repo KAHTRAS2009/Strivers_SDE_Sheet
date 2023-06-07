@@ -50,7 +50,7 @@ Space Complexity: O(1)
 
 import java.util.*;
 
-class SetMatrixZeros {
+class _01SetMatrixZeros {
 
     public static void main(String[] args) {
 

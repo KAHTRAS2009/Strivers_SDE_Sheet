@@ -57,7 +57,7 @@ And, the array will be modified.
 
 import java.util.*;
 
-public class _7RotateMatrix {
+public class _07RotateMatrix {
     
 
     public static void main(String[] args) {
